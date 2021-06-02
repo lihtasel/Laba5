@@ -1,0 +1,13 @@
+C:\Users\Daniil\source\repos\Laba5Itest\Laba5Itest\bin\Debug\netcoreapp3.1\Laba5Itest.exe
+C:\Users\Daniil\source\repos\Laba5Itest\Laba5Itest\bin\Debug\netcoreapp3.1\Laba5Itest.deps.json
+C:\Users\Daniil\source\repos\Laba5Itest\Laba5Itest\bin\Debug\netcoreapp3.1\Laba5Itest.runtimeconfig.json
+C:\Users\Daniil\source\repos\Laba5Itest\Laba5Itest\bin\Debug\netcoreapp3.1\Laba5Itest.runtimeconfig.dev.json
+C:\Users\Daniil\source\repos\Laba5Itest\Laba5Itest\bin\Debug\netcoreapp3.1\Laba5Itest.dll
+C:\Users\Daniil\source\repos\Laba5Itest\Laba5Itest\bin\Debug\netcoreapp3.1\Laba5Itest.pdb
+C:\Users\Daniil\source\repos\Laba5Itest\Laba5Itest\obj\Debug\netcoreapp3.1\Laba5Itest.csprojAssemblyReference.cache
+C:\Users\Daniil\source\repos\Laba5Itest\Laba5Itest\obj\Debug\netcoreapp3.1\Laba5Itest.AssemblyInfoInputs.cache
+C:\Users\Daniil\source\repos\Laba5Itest\Laba5Itest\obj\Debug\netcoreapp3.1\Laba5Itest.AssemblyInfo.cs
+C:\Users\Daniil\source\repos\Laba5Itest\Laba5Itest\obj\Debug\netcoreapp3.1\Laba5Itest.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\Laba5Itest\Laba5Itest\obj\Debug\netcoreapp3.1\Laba5Itest.dll
+C:\Users\Daniil\source\repos\Laba5Itest\Laba5Itest\obj\Debug\netcoreapp3.1\Laba5Itest.pdb
+C:\Users\Daniil\source\repos\Laba5Itest\Laba5Itest\obj\Debug\netcoreapp3.1\Laba5Itest.genruntimeconfig.cache
